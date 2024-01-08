@@ -1,0 +1,21 @@
+{
+    "arrival": "2023-10-15T13:35-05:00[America/Chicago]",
+    "orderId": 11896,
+    "cargoSold": 0,
+    "origin": "ADS",
+    "actualArrival": "2023-10-15T13:35-05:00[America/Chicago]",
+    "destination": "SAT",
+    "oldActionCode": "null",
+    "charterId": 0,
+    "cagAircraftId": 123,
+    "manufacturer": "Bombardier",
+    "duration": 52,
+    "tailNumber": "N9542GL",
+    "orderItemNumber": 3,
+    "actionCode": "OR",
+    "actualDeparture": "2023-10-15T12:43-05:00[America/Chicago]",
+    "model": "Learjet 40",
+    "id": 5270,
+    "departure": "2023-10-15T12:43-05:00[America/Chicago]",
+    "seatsSold": 0
+  }

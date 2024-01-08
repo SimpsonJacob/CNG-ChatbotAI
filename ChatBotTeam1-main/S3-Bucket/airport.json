@@ -1,0 +1,28 @@
+{
+   "airport":[
+      {
+         "name":"John F. Kennedy International Airport",
+         "country":"United States",
+         "state":"New York",
+         "city":"New York",
+         "zip":"11430",
+         "faa_code":"JFK"
+      },
+      {
+         "name":"Los Angeles International Airport",
+         "country":"United States",
+         "state":"California",
+         "city":"Los Angeles",
+         "zip":"90045",
+         "faa_code":"LAX"
+      },
+      {
+         "name":"Chicago O'Hare International Airport",
+         "country":"United States",
+         "state":"Illinois",
+         "city":"Chicago",
+         "zip":"60666",
+         "faa_code":"ORD"
+      }
+   ]
+}

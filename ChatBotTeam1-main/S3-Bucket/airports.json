@@ -1,0 +1,39 @@
+{
+  "airports": [
+    {
+      "name": "John F. Kennedy International Airport",
+      "country": "United States",
+      "state": "New York",
+      "city": "New York",
+      "zip": "11430"
+    },
+    {
+      "name": "Los Angeles International Airport",
+      "country": "United States",
+      "state": "California",
+      "city": "Los Angeles",
+      "zip": "90045"
+    },
+    {
+      "name": "Heathrow Airport",
+      "country": "United Kingdom",
+      "state": "England",
+      "city": "London",
+      "zip": "TW6"
+    },
+    {
+      "name": "Charles de Gaulle Airport",
+      "country": "France",
+      "state": "Île-de-France",
+      "city": "Roissy-en-France",
+      "zip": "95700"
+    },
+    {
+      "name": "Chicago O'Hare International Airport",
+      "country": "United States",
+      "state": "Illinois",
+      "city": "Chicago",
+      "zip": "60666"
+    }
+  ]
+}
